@@ -2,6 +2,21 @@
 
 赛博脉冲：终焉泰坦 V5 — 单文件网页射击游戏。在 6400×6400 开放星域里割草冲榜，对战四阶 BOSS，终局是三管护盾的超级泰坦。
 
+
+## 截图
+
+![标题界面](screenshots/01-title.png)
+
+![局外军械库](screenshots/02-armory.png)
+
+![对局画面](screenshots/03-gameplay.png)
+
+![升级选择](screenshots/04-upgrade.png)
+
+![战术暂停](screenshots/05-pause.png)
+
+![结算画面](screenshots/06-result.png)
+
 ## 游玩
 
 在线游玩：[https://0xmulight.github.io/cyber-pulse-apex-titan/](https://0xmulight.github.io/cyber-pulse-apex-titan/)
