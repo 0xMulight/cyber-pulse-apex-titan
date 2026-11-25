@@ -4,7 +4,9 @@
 
 ## 游玩
 
-用浏览器直接打开 [`index.html`](./index.html) 即可。支持：
+在线游玩：[https://0xmulight.github.io/cyber-pulse-apex-titan/](https://0xmulight.github.io/cyber-pulse-apex-titan/)
+
+也可以下载后用浏览器直接打开 [`index.html`](./index.html)。支持：
 
 - 3 分钟极速冲榜 / 无尽深渊模式
 - 标准、硬核、噩梦三种难度
